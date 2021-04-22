@@ -15,7 +15,7 @@ Contributors:
 Advising:
 Object files created by Alexandra Boghosian.
 
-Working under our advisors Professor Steven Feiner, Alexandra Boghosian, and Carmine Elvezio.
+Working under our advisors Professor Steven Feiner, Phd student Alexandra Boghosian and Carmine Elvezio at Columbia University
 
 
 ![cover](cover.png)
