@@ -4,7 +4,7 @@
 An application under development that uses MRTK in Unity in order to see Greenland's topography and ice sheets.
 
 
-Check out our [Vido Demo](https://youtu.be/aF3NYQ5JKlc), [Abstract](https://github.com/lmxy0212/XR_Iceshelves_Visualizer/blob/main/abstract.pdf), and [implemettaion details](https://github.com/lmxy0212/XR_Iceshelves_Visualizer/blob/main/Description.pdf).
+Check out our [Vido Demo](https://youtu.be/aF3NYQ5JKlc) and [Abstract](abstract.pdf),
 
 
 Contributors:
